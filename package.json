@@ -1,0 +1,19 @@
+{
+  "name": "out-of-date-range",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timkeane/out-of-date-range"
+  },
+  "author": "Tim Keane <tkeane@doitt.nyc.gov>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/timkeane/out-of-date-range/issues"
+  },
+  "dependencies": {
+    "https-proxy-agent": "^5.0.1",
+    "node-fetch": "^3.2.4"
+  }
+}
